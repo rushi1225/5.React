@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.Nav {
+    position: fixed;
+    z-index: 999;
+}
+
+/* scrollbar */
+
+body::-webkit-scrollbar {
+    background-color: rgb(51, 5, 5);
+    width: 10px;
+}
+
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 68, 255, 0.868);
+}
+
+/* select text on browser then background color change */
+*::selection {
+    background-color: chocolate;
+}

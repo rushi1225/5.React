@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.Nav{
+    position: fixed;
+    z-index: 999;
+}
+
