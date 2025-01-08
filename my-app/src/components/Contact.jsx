@@ -2,7 +2,7 @@ function Contact() {
     return (
     <>
 
-        <section className="bg-light p-5">
+        <section className="bg-light p-5 mt-4">
             <div className="container mt-5 m mb-5" id="contact">
                 <div className="row">
                     <div className="col-md-12">
