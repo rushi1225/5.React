@@ -1,0 +1,26 @@
+.login{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+
+.login form{
+    width: 500px;
+    background-color: aquamarine;
+    padding: 20px;
+    height: 50vh;
+    border: 2px solid black;
+}
+.login form input{
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+}
+
+button{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
