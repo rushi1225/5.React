@@ -14,6 +14,7 @@ function App() {
 
   return (
     <>
+      {/* error boundary to handle the error  */}
       <ErrorBoundary>
         <TestCompo1></TestCompo1>
       </ErrorBoundary>
